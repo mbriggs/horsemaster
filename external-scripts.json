@@ -1,9 +1,3 @@
 ["hubot-ttc-alerts",
-  "hubot-sadness",
   "hubot-plusplus",
-  "hubot-dogeme",
-  "hubot-euphemism",
-  "hubot-factoid",
-  "hubot-humanity",
-  "hubot-reaction",
-  "hubot-outofcontext"]
+  "hubot-euphemism"]
