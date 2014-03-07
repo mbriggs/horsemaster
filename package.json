@@ -33,7 +33,6 @@
     "hubot-factoid": "0.0.1",
     "hubot-humanity": "~0.1.2",
     "hubot-reaction": "0.0.6",
-    "hubot-trivia": "~0.3.0",
     "hubot-outofcontext": "~1.0.1"
   },
   "engines": {
