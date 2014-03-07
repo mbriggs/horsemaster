@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n horsemaster
+web: bin/hubot --adapter slack
