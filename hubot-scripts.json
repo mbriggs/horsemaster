@@ -1,7 +1,6 @@
 ["redis-brain.coffee",
   "shipit.coffee",
   "abstract.coffee",
-  "ackbar.coffee",
   "advice.coffee",
  "ambush.coffee",
 "applause.coffee",
@@ -12,10 +11,7 @@
 "catfacts.coffee",
 "cheer.coffee",
 "coin.coffee",
-"pomodoro.coffee",
 "which-do-you-prefer.coffee",
 "days_since.coffee",
 "dealwithit.coffee",
-"facepalm.coffee",
-"fml.coffee",
-"horse.coffee"]
+"facepalm.coffee"]
